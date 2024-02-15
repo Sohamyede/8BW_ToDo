@@ -10,14 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80fa8d8b-4928-4418-bd60-fc39053c636d" name="Changes" comment="success">
-      <change afterPath="$PROJECT_DIR$/to_do_app/lib/Data/database.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/to_do_app/lib/Pages/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/to_do_app/lib/Pages/home_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/to_do_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/to_do_app/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/to_do_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/to_do_app/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/to_do_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/to_do_app/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
