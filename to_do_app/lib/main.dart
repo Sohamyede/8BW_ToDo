@@ -1,9 +1,15 @@
 // ignore_for_file: deprecated_member_use
 
 import 'package:flutter/material.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 import 'package:to_do_app/Pages/home_page.dart';
 
-void main() {
+void main() async {
+  //initialize hive
+  await Hive.initFlutter();
+
+  var box = await Hive.openBox('myBox');
+
   runApp(const MyApp());
 }
 
